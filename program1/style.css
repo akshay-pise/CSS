@@ -37,10 +37,10 @@
     margin-left: 25px;
 }
 
-/*  Home section styling*/
 .home{
-    display: flex;
+    display: flex; 
     background: url(../navbar/home.jpg);
+    background-color: aqua;
     height: 100vh;
     color: #fff;
     min-height: 500px;
